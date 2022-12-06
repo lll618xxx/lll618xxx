@@ -3,11 +3,8 @@
 ## 👋personal Project👋
 
 - [采用 uni-app 和 express 搭建的前后端分离项目](https://github.com/lll618xxx/quick-customer)
+
 - [采用 vue2 和 thinkphp 搭建的前后端分离项目](https://github.com/lll618xxx/University-Students-Forum)
-
-- [采用 uni-app 和 express 搭建的前后端分离项目] (https://github.com/lll618xxx/quick-customer)
-
-- [采用 vue2 和 thinkphp 搭建的前后端分离项目] (https://github.com/lll618xxx/University-Students-Forum)
 
 ## 👀my knowledge Base👀
 
