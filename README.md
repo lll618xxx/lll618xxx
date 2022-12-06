@@ -9,3 +9,7 @@
 ## 👀my knowledge Base👀
 
 - [我的知识库](https://github.com/lll618xxx/Front-end-go-on)
+
+- [我的CSDN](https://blog.csdn.net/magic_xiang)
+
+- [我的思否](https://segmentfault.com/u/magicxiang)
