@@ -8,7 +8,7 @@
 
 ## 👀my knowledge Base👀
 
-- [我的知识库](https://github.com/lll618xxx/Front-end-go-on)
+- [我的知识库](https://lll618xxx.github.io/Front-end-go-on/)
 
 - [我的CSDN](https://blog.csdn.net/magic_xiang)
 
