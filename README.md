@@ -13,3 +13,7 @@
 - [我的CSDN](https://blog.csdn.net/magic_xiang)
 
 - [我的思否](https://segmentfault.com/u/magicxiang)
+
+## Vistor Count
+
+<img src="https://profile-counter.glitch.me/lll618xxx/count.svg" />
