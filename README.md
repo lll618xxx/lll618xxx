@@ -1,5 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api?username=lll618xxx&show_icons=true&include_all_commits=true&theme=buefy">
-
 ![](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D) ![](https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React&labelColor=ffffff&color=61DAFB) ![](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white) ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white&color=blue)
 
 ## 👋personal Project👋
@@ -17,6 +15,8 @@
 -   [我的 CSDN](https://blog.csdn.net/magic_xiang)
 
 -   [我的思否](https://segmentfault.com/u/magicxiang)
+
+<img src="https://github-readme-stats.vercel.app/api?username=lll618xxx&show_icons=true&include_all_commits=true&theme=buefy">
 
 <!-- ## Vistor Count
 
